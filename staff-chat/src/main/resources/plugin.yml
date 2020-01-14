@@ -1,0 +1,3 @@
+name: staffchat-bot
+version: ${version}
+main: me.drawlin.staffchat.StaffchatPlugin
